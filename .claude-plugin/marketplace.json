@@ -1,0 +1,15 @@
+{
+  "name": "chinese-travel-assistant",
+  "description": "究极出境旅行助手（中国护照版）：签证入境、查漏补缺、机票住宿、外语沟通、旅途救场。覆盖美国、日本、欧洲、东非 safari。",
+  "owner": {
+    "name": "Nathan Gu",
+    "url": "https://x.com/nathangu76"
+  },
+  "plugins": [
+    {
+      "name": "chinese-travel-assistant",
+      "source": "./plugins/chinese-travel-assistant",
+      "description": "究极出境旅行助手（中国护照版）：签证入境、查漏补缺、机票住宿、外语沟通、旅途救场。覆盖美国、日本、欧洲、东非 safari。"
+    }
+  ]
+}
